@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hồ Hà Đăng</h1>
+<h1 align="center">Hi 👋, I'm DHH</h1>
 <h3 align="center">AI/ML Enginner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danghokotora" alt="danghokotora" /></a> </p>
